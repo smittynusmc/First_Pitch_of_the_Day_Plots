@@ -8,6 +8,7 @@ import threading
 import queue
 import matplotlib
 
+
 matplotlib.use('TkAgg')  # Use the TkAgg backend
 
 # Queue for GUI updates
